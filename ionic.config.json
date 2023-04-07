@@ -1,0 +1,7 @@
+{
+  "name": "walkure",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
